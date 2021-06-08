@@ -1,0 +1,26 @@
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/modals.css");
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
+
+﻿.container-q03LZO::before {
+  background-image: url('https://media.discordapp.net/attachments/805863292479602728/814108089589432350/image0-46.gif') !important;
+  background-color: transparent !important;
+  background-size: contain;
+}
+.member-3-YXUe[data-user-id*="234735735834411020"] .container-q03LZO::before , .message-2qnXI6[data-user-id*="234735735834411020"] .container-q03LZO::before {
+  content: "";
+  width: 14px;
+  height: 14px;
+  margin-right: 4px;
+}
+.userPopout-3XzG_A[data-user-id*="234735735834411020"] .container-q03LZO::before {
+  content: "";
+  width: 18px;
+  height: 18px;
+  margin: 0 6px 6px 0;
+}
+.root-SR8cQa[data-user-id*="234735735834411020"] .container-q03LZO::before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  margin: 0 6px 6px 0;
+}
