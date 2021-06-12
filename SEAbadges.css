@@ -14,3 +14,11 @@
   content: "";
   background-image: url("https://cdn.discordapp.com/emojis/788260475737473055.gif?v=1") !important;
 }
+.member-3-YXUe[data-user-id*="261123522494070785"] .container-q03LZO::before,
+.message-2qnXI6[data-user-id*="261123522494070785"] .contents-2mQqc9 .container-q03LZO::before,
+.replyAvatar-1K9Wmr[src*="261123522494070785"] ~ .container-q03LZO::before,
+.userPopout-xaxa6l[data-user-id*="261123522494070785"] .container-q03LZO::before,
+.root-3QyAh1[data-user-id*="261123522494070785"] .container-q03LZO::before {
+  content: "";
+  background-image: url("https://cdn.discordapp.com/emojis/788260736483721216.gif?v=1") !important;
+}
