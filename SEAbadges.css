@@ -22,3 +22,11 @@
   content: "";
   background-image: url("https://cdn.discordapp.com/emojis/788260736483721216.gif?v=1") !important;
 }
+.member-3-YXUe[data-user-id*="263262088820948992"] .container-q03LZO::before,
+.message-2qnXI6[data-user-id*="263262088820948992"] .contents-2mQqc9 .container-q03LZO::before,
+.replyAvatar-1K9Wmr[src*="263262088820948992"] ~ .container-q03LZO::before,
+.userPopout-xaxa6l[data-user-id*="263262088820948992"] .container-q03LZO::before,
+.root-3QyAh1[data-user-id*="263262088820948992"] .container-q03LZO::before {
+  content: "";
+  background-image: url("https://cdn.discordapp.com/emojis/854057732067426344.gif?v=1") !important;
+}
